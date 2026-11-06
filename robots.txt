@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://browserutil.com/sitemap-index.xml
